@@ -38,6 +38,17 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**FULL ADDER**
+
+![TRUTH ADDER 6](https://github.com/user-attachments/assets/76540b26-13ef-4138-95a0-8352f58e96da)
+
+
+**FULL SUBTRACTOR**
+
+
+![TRUTH SUB 6](https://github.com/user-attachments/assets/ed0d87a2-dc2f-41ca-a0ee-8a3202ff5839)
+
+
 **Procedure**
  Full Adder: 1.Open Quartus II and create a new project. 2.Use schematic design entry to draw the full adder circuit. 3.The circuit consists of XOR, AND, and OR gates. 4.Compile the design, verify its functionality through simulation. 5.Implement the design on the target device and program it.
 
@@ -47,24 +58,45 @@ Write the detailed procedure here
 
 **Program:**
  Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by:  VISAL R
+Developed by:  **VISAL R**
 RegisterNumber:   24008707
 
 **RTL Schematic**
     
- FULL ADDER:
+**FULL ADDER**
 
-PROGRAM:
+**PROGRAM**
+
    ![ADDER PROGRAM 6TH](https://github.com/user-attachments/assets/223df599-c10b-4987-a232-62e1adb43bb1)
    
-RTL DIADRAM:
+**RTL DIADRAM**
+
 ![RTL ADDER 6](https://github.com/user-attachments/assets/59df828c-8aec-493e-89c1-3d1509b2c546)
 
-OUTPUT WAVE FORM:
+**OUTPUT WAVE FORM**
+
 ![OUTPUT ADDER 6](https://github.com/user-attachments/assets/e8957301-657e-4564-b48e-8a724508bde2)
 
+**SUBTRACTOR**
 
-**Output Timing Waveform**
+**PROGRAM**
+
+
+![SUB PROGRAM 6](https://github.com/user-attachments/assets/0daacb33-7779-4994-b00e-5eaced0e2f79)
+
+**RTL DIAGRAM**
+
+
+![RTL SUB 6](https://github.com/user-attachments/assets/f931c569-96b2-445f-8933-490e3cdfa6bd)
+
+
+**OUTPUT WAVE FORM**
+
+
+![OUTPUT SUB 6](https://github.com/user-attachments/assets/009b2cd0-7120-4612-8f01-da7b5a50daa1)
+
+
+
 
 **Result:**
 
