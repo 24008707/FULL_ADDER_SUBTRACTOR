@@ -59,6 +59,7 @@ Write the detailed procedure here
 **Program:**
  Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by:  **VISAL R**
+
 RegisterNumber:   24008707
 
 **RTL Schematic**
@@ -77,7 +78,7 @@ RegisterNumber:   24008707
 
 ![OUTPUT ADDER 6](https://github.com/user-attachments/assets/e8957301-657e-4564-b48e-8a724508bde2)
 
-**SUBTRACTOR**
+**FULL SUBTRACTOR**
 
 **PROGRAM**
 
