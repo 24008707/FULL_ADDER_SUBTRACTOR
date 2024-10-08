@@ -51,12 +51,16 @@ Developed by:  VISAL R
 RegisterNumber:   24008707
 
 **RTL Schematic**
-    FULL ADDER :
+    
+ FULL ADDER:
 
+PROGRAM:
    ![ADDER PROGRAM 6TH](https://github.com/user-attachments/assets/223df599-c10b-4987-a232-62e1adb43bb1)
-
+   
+RTL DIADRAM:
 ![RTL ADDER 6](https://github.com/user-attachments/assets/59df828c-8aec-493e-89c1-3d1509b2c546)
 
+OUTPUT WAVE FORM:
 ![OUTPUT ADDER 6](https://github.com/user-attachments/assets/e8957301-657e-4564-b48e-8a724508bde2)
 
 
